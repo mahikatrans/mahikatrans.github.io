@@ -70,7 +70,7 @@ input[type=submit]:hover {
 </style>
 </head>
 <body>
-<form action="booking.php" method="post">
+<form action="etiket.php" method="post">
  <div style="overflow-x:auto;">
 <fieldset>
 
